@@ -1,0 +1,60 @@
+[12-Dec-2022 05:49:02 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:02 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:03 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:03 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:09 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:09 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:39 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:49:39 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:09 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:09 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:15 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:15 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:16 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:16 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:22 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:51:22 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:52:32 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:52:32 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:52:37 America/Chicago] PHP Warning:  Undefined variable $header in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
+[12-Dec-2022 05:52:37 America/Chicago] PHP Fatal error:  Uncaught TypeError: fputcsv(): Argument #2 ($fields) must be of type array, null given in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php:16
+Stack trace:
+#0 /home1/dhwdohem/paceonline.in/arise2022/admin/export.php(16): fputcsv(Resource id #4, NULL)
+#1 {main}
+  thrown in /home1/dhwdohem/paceonline.in/arise2022/admin/export.php on line 16
